@@ -33,4 +33,3 @@ MIT
 ## Author Information
 
 Author: Surya
-Company: YourCompany
