@@ -1,6 +1,6 @@
 # java_jenkins_docker_setup
 
-Ansible role to install Java, Jenkins, and Docker on Ubuntu machines.
+Thsi role installs Java, Jenkins, and Docker on Ubuntu machines.
 
 ## Role Variables
 
@@ -11,6 +11,13 @@ Ansible role to install Java, Jenkins, and Docker on Ubuntu machines.
 Before running this playbook, ensure that you have the following prerequisites:
 
 - Ubuntu instances created on AWS EC2.
+
+## Tested Ubuntu Versions
+
+This role has been tested on the following Ubuntu versions:
+
+- Ubuntu 22.04 LTS (Jammy Jellyfish)
+- Ubuntu 24.04 LTS (Noble Numbat)
 
 ## Dependencies
 
