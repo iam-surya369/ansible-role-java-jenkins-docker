@@ -26,9 +26,11 @@ No dependencies on other roles.
     - java_jenkins_docker_setup
 ```
 
-License
+## License
+
 MIT
 
-Author Information
+## Author Information
+
 Author: Surya
 Company: YourCompany
