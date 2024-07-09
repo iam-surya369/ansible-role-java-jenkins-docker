@@ -1,6 +1,1 @@
 ---
-- name: Install Java, Jenkins and Docker on ubuntu machines
-  hosts: all
-  become: true
-  roles:
-    - java_jenkins_docker_setup
